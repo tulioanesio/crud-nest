@@ -8,8 +8,7 @@
 
 ## Description
 
-This is a first CRUD project designed as a learning exercise to start studying the NestJS framework, using Prisma ORM and PostgreSQL for data persistence.  
-It also served as practice for implementing API documentation using Swagger and enhanced validation and schema typing through Scalar API Reference.
+This is a first CRUD project designed as a learning exercise to start studying the NestJS framework, using Prisma ORM and PostgreSQL for data persistence. It also served as practice for implementing API documentation using Swagger and enhanced validation and schema typing through Scalar API Reference.
 
 The API includes:
 
