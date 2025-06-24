@@ -8,8 +8,8 @@
 
 ## Description
 
-This is a beginner-friendly RESTful API built with the [NestJS](https://nestjs.com) framework.  
-The goal of this project is to introduce developers to the basic structure and concepts of NestJS, Prisma ORM, and PostgreSQL by implementing a simple User CRUD.
+This is a first CRUD project designed as a learning exercise to start studying the NestJS framework, using Prisma ORM and PostgreSQL for data persistence.  
+It also served as practice for implementing API documentation using Swagger and enhanced validation and schema typing through Scalar API Reference.
 
 The API includes:
 
