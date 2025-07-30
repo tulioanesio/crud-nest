@@ -13,7 +13,7 @@ export function setupSwagger(app: INestApplication) {
   const document = SwaggerModule.createDocument(app, config);
 
   app.use(
-    '/docs',
+    '/api/docs',
     apiReference({
       spec: {
         content: document,
